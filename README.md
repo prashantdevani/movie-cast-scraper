@@ -17,7 +17,7 @@ npm start
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can find any movie cast by movie name. this project is created to learning purpose for web scraping.
+You can find any movie cast by movie name. this project is created for learning purposes for web scraping.
 
 In this project created ["http://localhost:3000/api/google?movieName=mission%20impossible%207"](http://localhost:3000/api/google?movieName=mission%20impossible%207) api for scarping movie cast data from google search result using the [puppeteer](https://pptr.dev/) library.
 
